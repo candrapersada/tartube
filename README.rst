@@ -151,10 +151,6 @@ If you want to perform a manual installation, you can follow this procedure, whi
         
         **pacman -S mingw-w64-x86_64-gsettings-desktop-schemas**   
 
-        **pip3 install feedparser**
-        
-        **pip3 install playsound**
-        
         **pacman -S mingw-w64-x86_64-aria2**
         
         **pacman -S mingw-w64-x86_64-python-matplotlib**
